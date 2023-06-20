@@ -1,7 +1,7 @@
 # University Project ~ Andreas
 ==================================================
 
-eCommerce Website
+eCommerce Website,
 Electronics Online Store
 
 =====================================
